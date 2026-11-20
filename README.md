@@ -1,26 +1,35 @@
-# KKS_AIChat
-Adds real-time AI conversations directly inside the game's TalkScene (which is used during gameplay/Free Mode, unlike Studio-only mods)
+# KKS AI Chat (v1.1.0)
 
-- Per-Character Persistent Memory & Auto-Summaries: Every character gets their own `.json` memory file (`BepInEx\config\KKS_AIChat_Memories\`). Conversations are automatically summarized in the background into long-term memories so characters never forget important details.
+Bring your **Koikatsu Sunshine** characters to life with dynamic, AI-powered conversations directly inside `TalkScene`. Unlike simple overlay chats, **KKS AI Chat** reads real-time game state, maintains persistent per-character memory, controls live expressions and stats, and triggers native in-game events.
 
-- Deep World & Character Awareness: Characters know their personality, relationship status, favor, H gauge (lewdness), current outfit, time of day, location, whether other people are nearby, and even their height difference* relative to the player.
+---
 
-- KK_Profile Support: Automatically reads custom character lore/backstories from `KK_Profile` if installed. This is your character sheet. 
+## ✨ Features
 
-- Live Reactions in TalkScene: Responses dynamically control facial expressions, blush, poses, Favor, and the H Gauge* in real time.
+* **Universal Language Support & Bilingual UI:** Write in **any language** (English, Spanish, Japanese, Russian, Italian, Portuguese, etc.) and characters automatically reply and summarize memories in that exact language. Toggle the mod UI between **English** and **Spanish** in-game (`IdiomaInterfaz`).
+* **Visual Novel Mode (`VN Mode`):** Switch on the fly between the full chat log window and a clean, minimalist Visual Novel input bar directly above the dialog box.
+* **Accelerated Stat Progression:** Meaningful conversations and gestures dynamically adjust **Favor** and the **H Gauge** from `-50` to `+50` based on context and emotional weight.
+* **Proactive H-Scene Proposals:** Once a character's H Gauge crosses the configurable threshold (`UmbralPropuestaH`, default `80/100`), they will proactively ask to start an H scene or head somewhere private.
+* **100% Guaranteed Chat Invitations:** Agree on eating, playing, kayaking, sightseeing, dating, or H scenes directly in chat. Includes a Harmony patch so accepted chat proposals are never randomly rejected by base-game RNG.
+* **Local AI Optimization (Strict JSON Schema):** Built-in `json_schema` enforcement and emotion-first generation for **KoboldCpp**, **Ollama**, and **LM Studio**—preventing empty replies, broken JSON, or mismatched facial expressions.
+* **Persistent Memory & Auto-Summaries:** Each character gets an individual `.json` file in `BepInEx\config\KKS_AIChat_Memories\` with automatic background summarization into long-term key memories.
+* **Deep World & Character Awareness:** Reads personality, relationship status, favor, H gauge, outfit, time of day, day of week, location, nearby NPCs, **height difference** relative to the player, and **`KK_Profile`** custom lore.
+* **Spontaneous Reactions:** Characters automatically react to touch/look gestures and native game dialogues.
 
-- Dynamic Invitations: Depending on the flow of the conversation, characters can invite you to eat, hang out, do activities, or start an H scene with clean Accept / Reject* buttons.
+---
 
-- Harmony World Hooks: Characters spontaneously react to touch/look gestures, native game dialogues, post-H scenes, and embarrassing/private encounters.
+## 📦 Requirements
 
-- Multi-Provider Support (BYOK): Works with OpenRouter (free tier available), Groq, Google Gemini, or 100% Free & Offline Local Models* via Ollama / LM Studio.
+* **Koikatsu Sunshine** with **BepInEx 5** installed.
+* **BepInEx ConfigurationManager** (`F1` / `F11` menu, included in most repacks).
+* *(Optional)* **KK_Profile** plugin for custom character backstories.
 
-- Smooth UX: Automatically closes when exiting `TalkScene` and restores your unsent message to the input box if an API rate limit occurs.
+---
 
-## License
+## 🚀 Installation
 
-**KKS_AIChat** © 2026 by **JXBlight** is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org).
-
-* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-* **NonCommercial:** You may not use this mod or any derivative works for commercial purposes.
-* **ShareAlike:** If you remix, transform, or build upon this project, you must distribute your contributions under the same license.
+1. Close **Koikatsu Sunshine** if it is running.
+2. Download the latest release `.zip` from the [Releases](../../releases) tab.
+3. Extract `KKS_AIChat.dll` into:
+   ```text
+   <Game Folder>\BepInEx\plugins\
