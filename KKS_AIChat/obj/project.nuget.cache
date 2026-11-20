@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yB6BxUBlfFs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\KKS_AIChat\\KKS_AIChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.3\\microsoft.netframework.referenceassemblies.net46.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
