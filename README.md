@@ -38,3 +38,6 @@ Bring your **Koikatsu Sunshine** characters to life with dynamic, AI-powered con
 Be a dear and also take a look in my Patreon where I'll be posting everything about the Plugin and my other projects like my Umamusume fanfiction "Umbra Iridis".
 
 https://www.patreon.com/cw/jxblight
+
+<img width="1358" height="543" alt="image" src="https://github.com/user-attachments/assets/f548b6a1-e8b3-43f2-a951-9977565807da" />
+
