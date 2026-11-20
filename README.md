@@ -33,3 +33,8 @@ Bring your **Koikatsu Sunshine** characters to life with dynamic, AI-powered con
 3. Extract `KKS_AIChat.dll` into:
    ```text
    <Game Folder>\BepInEx\plugins\
+
+
+Be a dear and also take a look in my Patreon where I'll be posting everything about the Plugin and my other projects like my Umamusume fanfiction "Umbra Iridis".
+
+https://www.patreon.com/cw/jxblight
