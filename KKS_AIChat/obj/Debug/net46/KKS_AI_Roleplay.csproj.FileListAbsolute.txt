@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\KKS AI Roleplay\bin\Debug\net46\KKS_AIChat.dll
-C:\Users\PC\Desktop\KKS AI Roleplay\bin\Debug\net46\KKS_AIChat.pdb
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AI_Roleplay.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AI_Roleplay.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AI_Roleplay.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AI_Roleplay.AssemblyInfo.cs
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AI_Roleplay.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AIChat.dll
-C:\Users\PC\Desktop\KKS AI Roleplay\obj\Debug\net46\KKS_AIChat.pdb

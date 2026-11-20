@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\KKS_AIChat\bin\Debug\net46\KKS_AIChat.dll
-C:\Users\PC\Desktop\KKS_AIChat\bin\Debug\net46\KKS_AIChat.pdb
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.AssemblyInfo.cs
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.dll
-C:\Users\PC\Desktop\KKS_AIChat\obj\Debug\net46\KKS_AIChat.pdb
